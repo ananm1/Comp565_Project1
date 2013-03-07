@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:NodeContent">
+    <Name>WORLD</Name>
+    <Identity>
+      <SourceFilename>C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASKContent\coffin.x</SourceFilename>
+      <SourceTool>XImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Children>
+      <Child>
+        <Name>box</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 15.7414 -16.3064 1.0325 1</Transform>
+        <Children>
+          <Child Type="Graphics:MeshContent">
+            <Name>box</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Positions>134.173 69.3028 150 134.173 -133.584 150 134.173 -133.584 -150 134.173 69.3028 -150 -132.464 69.3028 -150 -132.464 -133.584 -150 -132.464 -133.584 150 -132.464 69.3028 150</Positions>
+            <Geometry>
+              <Batch>
+                <Material>#Resource1</Material>
+                <Indices>0 1 2 0 2 3 4 5 6 4 6 7 8 9 10 8 10 11 12 13 14 12 14 15 16 17 18 16 18 19 20 21 22 20 22 23 24 25 26 24 26 27 28 29 30 28 30 31 32 33 34 32 34 35 36 37 38 36 38 39 40 41 42 40 42 43 44 45 46 44 46 47</Indices>
+                <Vertices>
+                  <PositionIndices>0 1 2 3 3 2 1 0 4 5 6 7 7 6 5 4 3 2 5 4 4 5 2 3 7 6 1 0 0 1 6 7 4 7 0 3 3 0 7 4 5 2 1 6 6 1 2 5</PositionIndices>
+                  <Channels>
+                    <VertexChannel Name="Normal0" ElementType="Framework:Vector3">-1 0 0 -1 0 0 -1 0 0 -1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 0 0 1 0 0 1 0 0 1 0 0 1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 1 0 0 1 0 0 1 0 0 1 0 -1 -0 0 -1 -0 0 -1 -0 0 -1 -0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 -1 -0 0 -1 -0 0 -1 -0 0 -1 -0</VertexChannel>
+                  </Channels>
+                </Vertices>
+              </Batch>
+            </Geometry>
+          </Child>
+        </Children>
+      </Child>
+      <Child>
+        <Name>box</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 -25.0638 -2.68947 -53.9788 1</Transform>
+        <Children>
+          <Child Type="Graphics:MeshContent">
+            <Name>box</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Positions>-63.4144 152.8 130.799 -63.4144 -64.1053 130.799 -63.4144 -64.1053 0 -63.4144 152.8 0 -125.021 84.5012 -2.90557 -125.021 -132.404 -2.90557 -125.021 -132.404 127.894 -125.021 84.5012 127.894</Positions>
+            <Geometry>
+              <Batch>
+                <Material>#Resource2</Material>
+                <Indices>0 1 2 0 2 3 4 5 6 4 6 7 8 9 10 8 10 11 12 13 14 12 14 15 16 17 18 16 18 19 20 21 22 20 22 23 24 25 26 24 26 27 28 29 30 28 30 31 8 11 32 8 32 33 34 35 12 34 12 15 36 2 1 36 1 37 38 6 5 38 5 39</Indices>
+                <Vertices>
+                  <PositionIndices>0 1 2 3 3 2 1 0 4 5 6 7 7 6 5 4 3 2 5 4 4 5 2 3 7 6 1 0 0 1 6 7 0 3 3 0 5 6 6 5</PositionIndices>
+                  <Channels>
+                    <VertexChannel Name="Normal0" ElementType="Framework:Vector3">-1 0 0 -0.9334199 0.358785957 0 -0.9334199 0.358785957 0 -1 0 0 1 0 0 0.9334199 -0.358785957 -0 0.9334199 -0.358785957 -0 1 0 0 0.9334199 -0.358785957 -0 1 0 0 1 0 0 0.9334199 -0.358785957 -0 -0.9334199 0.358785957 0 -1 0 0 -1 0 0 -0.9334199 0.358785957 0 -0.0471109822 0 0.9988896 -0.0471109822 0 0.9988896 -0.0471109822 0 0.9988896 -0.0471109822 0 0.9988896 0.0471109822 0 -0.9988896 0.0471109822 0 -0.9988896 0.0471109822 0 -0.9988896 0.0471109822 0 -0.9988896 0.0471109822 0 -0.9988896 0.0471109822 0 -0.9988896 0.0471109822 0 -0.9988896 0.0471109822 0 -0.9988896 -0.0471109822 0 0.9988896 -0.0471109822 0 0.9988896 -0.0471109822 0 0.9988896 -0.0471109822 0 0.9988896 0.742545068 -0.66979605 -0 0.742545068 -0.66979605 -0 -0.742545068 0.66979605 0 -0.742545068 0.66979605 0 -0.742545068 0.66979605 0 -0.742545068 0.66979605 0 0.742545068 -0.66979605 -0 0.742545068 -0.66979605 -0</VertexChannel>
+                  </Channels>
+                </Vertices>
+              </Batch>
+            </Geometry>
+          </Child>
+        </Children>
+      </Child>
+    </Children>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Identity>
+        <SourceFilename>C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASKContent\coffin.x</SourceFilename>
+        <SourceTool>XImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.2 0.2 0.2</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularPower" Type="float">128</Data>
+      </OpaqueData>
+    </Resource>
+    <Resource ID="#Resource2" Type="Graphics:BasicMaterialContent">
+      <Identity>
+        <SourceFilename>C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASKContent\coffin.x</SourceFilename>
+        <SourceTool>XImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.2 0.2 0.2</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularPower" Type="float">128</Data>
+      </OpaqueData>
+    </Resource>
+  </Resources>
+</XnaContent>
