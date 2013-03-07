@@ -64,3 +64,25 @@ C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\obj\x86\Debug\AG
 C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\obj\x86\Debug\AGXNASK.exe
 C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\obj\x86\Debug\AGXNASK.pdb
+C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\100x100x100Brick.xnb
+C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\100x50x100Marker.xnb
+C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\boundingSphereV3.xnb
+C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\cloudV3.xnb
+C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\dogV3.xnb
+C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\magentaAvatarV3.xnb
+C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\redAvatarV3.xnb
+C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\templeV3.xnb
+C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\sphinx.xnb
+C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\coffin.xnb
+C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\inspectorBackground.xnb
+C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\marble.xnb
+C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\colorTexture.xnb
+C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\heightTexture.xnb
+C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\marble_0.xnb
+C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\AGXNASK.exe
+C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\AGXNASK.pdb
+C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\obj\x86\Debug\AGXNASK.csprojResolveAssemblyReference.cache
+C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\obj\x86\Debug\AGXNASK.exe
+C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\obj\x86\Debug\AGXNASK.pdb

@@ -35,10 +35,10 @@ public class Scene : Stage
        Model3D coffin2 = new Model3D(this, "coffin", "coffin");
        Model3D coffin3 = new Model3D(this, "coffin", "coffin");
        Model3D coffin4 = new Model3D(this, "coffin", "coffin");
-       coffin1.IsCollidable = true;
-       coffin2.IsCollidable = true;
-       coffin3.IsCollidable = true;
-       coffin4.IsCollidable = true;
+       coffin1.IsCollidable = false;
+       coffin2.IsCollidable = false;
+       coffin3.IsCollidable = false;
+       coffin4.IsCollidable = false;
        coffin1.addObject(new Vector3(30 * spacing, terrain.surfaceHeight(100, 50), 230 * spacing),
            new Vector3(0, 1, 0), 0.79f);
        coffin2.addObject(new Vector3(50 * spacing, terrain.surfaceHeight(100, 50), 400 * spacing),

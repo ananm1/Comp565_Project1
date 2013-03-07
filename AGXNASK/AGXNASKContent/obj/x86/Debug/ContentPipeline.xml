@@ -7,11 +7,11 @@
       <Importer>XImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\100x100x100Brick.xnb</Output>
-      <Time>2013-03-06T17:25:00.6026462-08:00</Time>
+      <Output>C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\100x100x100Brick.xnb</Output>
+      <Time>2013-03-07T09:28:20.6279419-08:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\100x100x100Brick_0.xml</Key>
-        <Value>2013-03-06T20:14:05.062248-08:00</Value>
+        <Value>2013-03-07T09:29:33.8050201-08:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -20,11 +20,11 @@
       <Importer>XImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\100x50x100Marker.xnb</Output>
-      <Time>2013-03-06T17:25:00.5557685-08:00</Time>
+      <Output>C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\100x50x100Marker.xnb</Output>
+      <Time>2013-03-07T09:28:20.6401024-08:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\100x50x100Marker_0.xml</Key>
-        <Value>2013-03-06T20:14:05.1702739-08:00</Value>
+        <Value>2013-03-07T09:29:34.1454498-08:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -33,11 +33,11 @@
       <Importer>XImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\boundingSphereV3.xnb</Output>
-      <Time>2013-03-06T17:25:00.6495212-08:00</Time>
+      <Output>C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\boundingSphereV3.xnb</Output>
+      <Time>2013-03-07T09:28:20.6564897-08:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\boundingSphereV3_0.xml</Key>
-        <Value>2013-03-06T20:14:05.2112837-08:00</Value>
+        <Value>2013-03-07T09:29:34.2033084-08:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -46,11 +46,11 @@
       <Importer>XImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\cloudV3.xnb</Output>
-      <Time>2013-03-06T17:25:00.7432681-08:00</Time>
+      <Output>C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\cloudV3.xnb</Output>
+      <Time>2013-03-07T09:28:20.6904551-08:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\cloudV3_0.xml</Key>
-        <Value>2013-03-06T20:14:05.3093074-08:00</Value>
+        <Value>2013-03-07T09:29:34.3250224-08:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -59,11 +59,11 @@
       <Importer>XImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\dogV3.xnb</Output>
-      <Time>2013-03-06T17:25:00.7901469-08:00</Time>
+      <Output>C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\dogV3.xnb</Output>
+      <Time>2013-03-07T09:28:20.707467-08:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\dogV3_0.xml</Key>
-        <Value>2013-03-06T20:14:05.3333136-08:00</Value>
+        <Value>2013-03-07T09:29:34.3537661-08:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -72,11 +72,11 @@
       <Importer>XImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\magentaAvatarV3.xnb</Output>
-      <Time>2013-03-06T17:25:00.8370217-08:00</Time>
+      <Output>C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\magentaAvatarV3.xnb</Output>
+      <Time>2013-03-07T09:28:20.7170176-08:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\magentaAvatarV3_0.xml</Key>
-        <Value>2013-03-06T20:14:05.35932-08:00</Value>
+        <Value>2013-03-07T09:29:34.3875098-08:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -85,11 +85,11 @@
       <Importer>XImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\redAvatarV3.xnb</Output>
-      <Time>2013-03-06T17:25:00.9307683-08:00</Time>
+      <Output>C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\redAvatarV3.xnb</Output>
+      <Time>2013-03-07T09:28:20.7954182-08:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\redAvatarV3_0.xml</Key>
-        <Value>2013-03-06T20:14:05.3873265-08:00</Value>
+        <Value>2013-03-07T09:29:34.4225555-08:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -98,13 +98,13 @@
       <Importer>XImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\templeV3.xnb</Output>
-      <Time>2013-03-06T17:25:01.0088933-08:00</Time>
+      <Output>C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\templeV3.xnb</Output>
+      <Time>2013-03-07T09:28:20.8524201-08:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\templeV3_0.xml</Key>
-        <Value>2013-03-06T20:14:05.4633455-08:00</Value>
+        <Value>2013-03-07T09:29:34.5194504-08:00</Value>
       </Dependency>
-      <Request>C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\marble_0.xnb</Request>
+      <Request>C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\marble_0.xnb</Request>
     </Item>
     <Item>
       <Source>sphinx.x</Source>
@@ -112,11 +112,11 @@
       <Importer>XImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\sphinx.xnb</Output>
-      <Time>2013-03-06T17:25:01.0245187-08:00</Time>
+      <Output>C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\sphinx.xnb</Output>
+      <Time>2013-03-07T09:28:20.7994191-08:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\sphinx_0.xml</Key>
-        <Value>2013-03-06T20:14:05.5353628-08:00</Value>
+        <Value>2013-03-07T09:29:34.6599939-08:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -125,11 +125,11 @@
       <Importer>XImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\coffin.xnb</Output>
-      <Time>2013-03-06T17:25:00.5245191-08:00</Time>
+      <Output>C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\coffin.xnb</Output>
+      <Time>2013-03-07T14:31:46.5484605-08:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\coffin_0.xml</Key>
-        <Value>2013-03-06T20:14:05.5473661-08:00</Value>
+        <Value>2013-03-07T14:31:51.8909501-08:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -138,8 +138,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\Courier New.xnb</Output>
-      <Time>2013-03-06T17:25:00.7432681-08:00</Time>
+      <Output>C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\Courier New.xnb</Output>
+      <Time>2013-03-07T09:28:20.6421096-08:00</Time>
     </Item>
     <Item>
       <Source>inspectorBackground.png</Source>
@@ -147,8 +147,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\inspectorBackground.xnb</Output>
-      <Time>2013-03-06T17:25:00.8057703-08:00</Time>
+      <Output>C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\inspectorBackground.xnb</Output>
+      <Time>2013-03-07T09:28:20.7094688-08:00</Time>
     </Item>
     <Item>
       <Source>marble.png</Source>
@@ -156,8 +156,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\marble.xnb</Output>
-      <Time>2013-03-06T17:25:00.8526448-08:00</Time>
+      <Output>C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\marble.xnb</Output>
+      <Time>2013-03-07T09:28:20.7180167-08:00</Time>
     </Item>
     <Item>
       <Source>colorTexture.png</Source>
@@ -165,8 +165,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\colorTexture.xnb</Output>
-      <Time>2013-03-06T17:25:00.5088952-08:00</Time>
+      <Output>C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\colorTexture.xnb</Output>
+      <Time>2013-03-07T09:28:20.6964626-08:00</Time>
     </Item>
     <Item>
       <Source>heightTexture.png</Source>
@@ -174,64 +174,64 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\heightTexture.xnb</Output>
-      <Time>2013-03-06T20:19:52.632922-08:00</Time>
+      <Output>C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\heightTexture.xnb</Output>
+      <Time>2013-03-07T09:28:20.7084692-08:00</Time>
     </Item>
     <Item>
       <Source>100x100x100Brick.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\100x100x100Brick_0.xml</Output>
-      <Time>2013-03-06T17:25:00.6026462-08:00</Time>
+      <Time>2013-03-07T09:28:20.6279419-08:00</Time>
     </Item>
     <Item>
       <Source>100x50x100Marker.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\100x50x100Marker_0.xml</Output>
-      <Time>2013-03-06T17:25:00.5557685-08:00</Time>
+      <Time>2013-03-07T09:28:20.6401024-08:00</Time>
     </Item>
     <Item>
       <Source>boundingSphereV3.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\boundingSphereV3_0.xml</Output>
-      <Time>2013-03-06T17:25:00.6495212-08:00</Time>
+      <Time>2013-03-07T09:28:20.6564897-08:00</Time>
     </Item>
     <Item>
       <Source>cloudV3.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\cloudV3_0.xml</Output>
-      <Time>2013-03-06T17:25:00.7432681-08:00</Time>
+      <Time>2013-03-07T09:28:20.6904551-08:00</Time>
     </Item>
     <Item>
       <Source>dogV3.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\dogV3_0.xml</Output>
-      <Time>2013-03-06T17:25:00.7901469-08:00</Time>
+      <Time>2013-03-07T09:28:20.707467-08:00</Time>
     </Item>
     <Item>
       <Source>magentaAvatarV3.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\magentaAvatarV3_0.xml</Output>
-      <Time>2013-03-06T17:25:00.8370217-08:00</Time>
+      <Time>2013-03-07T09:28:20.7170176-08:00</Time>
     </Item>
     <Item>
       <Source>redAvatarV3.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\redAvatarV3_0.xml</Output>
-      <Time>2013-03-06T17:25:00.9307683-08:00</Time>
+      <Time>2013-03-07T09:28:20.7954182-08:00</Time>
     </Item>
     <Item>
       <Source>templeV3.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\templeV3_0.xml</Output>
-      <Time>2013-03-06T17:25:01.0088933-08:00</Time>
+      <Time>2013-03-07T09:28:20.8524201-08:00</Time>
     </Item>
     <Item>
       <Source>marble.png</Source>
@@ -246,22 +246,22 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\marble_0.xnb</Output>
-      <Time>2013-03-06T17:25:00.8526448-08:00</Time>
+      <Output>C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\marble_0.xnb</Output>
+      <Time>2013-03-07T09:28:20.7180167-08:00</Time>
     </Item>
     <Item>
       <Source>sphinx.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\sphinx_0.xml</Output>
-      <Time>2013-03-06T17:25:01.0245187-08:00</Time>
+      <Time>2013-03-07T09:28:20.7994191-08:00</Time>
     </Item>
     <Item>
       <Source>coffin.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\coffin_0.xml</Output>
-      <Time>2013-03-06T17:25:00.5245191-08:00</Time>
+      <Time>2013-03-07T14:31:46.5484605-08:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -269,10 +269,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASKContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASKContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Anan\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASKContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASKContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Anan Mallik\Documents\GitHub\Comp565_Project1\AGXNASK\AGXNASK\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -301,7 +301,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2013-03-03T17:55:01.6052771-08:00</Value>
+        <Value>2013-01-24T17:03:18.8373299-08:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

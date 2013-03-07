@@ -72,7 +72,7 @@ public class Stage : Game {
 
    public Stage() : base() {
       graphics = new GraphicsDeviceManager(this);
-      graphics.IsFullScreen = true;
+      graphics.IsFullScreen = false;
       Content.RootDirectory = "Content";
       graphics.SynchronizeWithVerticalRetrace = false;  // allow faster FPS
       // Directional light values
